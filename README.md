@@ -1,6 +1,6 @@
 ## Nuryn Insyirah🧕🏼✨
 
-👩🏻‍💻 Product Engineer student </br>
+👩🏻‍💻 Product Development Engineer student </br>
 👩🏻‍🎓 Studying Engineering Product Development (Robotics track) at **SUTD**, Singapore </br>
 🌱 Currently learning **ROS 2** and **Unreal Engine 5**</br>
 🌟 Interest(s): Blending technology with the arts for creative expression</br>
