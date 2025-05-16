@@ -1,9 +1,8 @@
 ## Nuryn Insyirah🧕🏼✨
 
 👩🏻‍💻 Product Development Engineer student </br>
-👩🏻‍🎓 Studying Engineering Product Development (Robotics track) at **SUTD**, Singapore </br>
-🌱 Currently learning **DSP** and **Unreal Engine 5**</br>
-🌟 Interest(s): Blending technology with the arts for creative expression</br>
+👩🏻‍🎓 Bachelor of Engineering Product Development (EPD) - Robotics speccialisation at **SUTD**, Singapore </br>
+🌱 Learning Jekyll </br>
 ❤️ Learner at heart
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/gLEBxlHvFTQAAAAC/frieren-sousou-no-frieren.gif"> 
