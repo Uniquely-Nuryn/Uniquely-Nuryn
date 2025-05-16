@@ -1,6 +1,5 @@
 ## Nuryn Insyirah🧕🏼✨
 
-👩🏻‍💻 Product Development Engineer student </br>
 👩🏻‍🎓 Bachelor of Engineering Product Development (EPD) - Robotics speccialisation at **SUTD**, Singapore </br>
 📖 Reader </br>
 🏃🏻‍♀️ Running & fitness enthusiast </br>
