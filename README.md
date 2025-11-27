@@ -1,9 +1,9 @@
 ## Nuryn Insyirah 
 
 👩🏻‍🎓 Bachelor of Engineering Product Development (EPD) - Robotics specialisation at **SUTD**, Singapore </br>
-❤️ Learner at heart (Currently learning: Azure DevOps)
+❤️ Learner at heart (Currently learning: Azure DevOps) </br>
 
-More about me:
+More about me: </br>
 📖 Loves stories - "Books are a uniquely portable magic" </br>
 🏃🏻‍♀️ Running & fitness enthusiast </br>
 🩰 Active in Ballet </br>
