@@ -1,4 +1,4 @@
-## Nuryn Insyirah🧕🏼✨
+## Nuryn Insyirah 
 
 👩🏻‍🎓 Bachelor of Engineering Product Development (EPD) - Robotics specialisation at **SUTD**, Singapore </br>
 📖 Books are a uniquely portable magic </br>
