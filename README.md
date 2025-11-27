@@ -5,7 +5,7 @@
 🏃🏻‍♀️ Running & fitness enthusiast </br>
 🩰 Ballet </br>
 🎨 Creative Soul </br>
-❤️ Learner at heart
+❤️ Learner at heart (Currently learning: Azure DevOps)
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/gLEBxlHvFTQAAAAC/frieren-sousou-no-frieren.gif"> 
  <img alt="Peace and quiet when there is snow." src="https://media1.tenor.com/m/gLEBxlHvFTQAAAAC/frieren-sousou-no-frieren.gif">
